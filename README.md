@@ -23,9 +23,10 @@ Para visualizar o projeto em seu navegador, siga estes passos:
     ```bash
   git clone https://github.com/MaSabino74/Projeto--DevMedia--Imobiliaria--Santos.git
     ```
+    
 2.  **Navegue até a pasta do projeto**:
     ```bash
-    cd NomeDoSeuRepositorio
+    cd  https://github.com/MaSabino74/Projeto--DevMedia--Imobiliaria--Santos.git 
     ```
 3.  **Abra o arquivo `index.html`** em seu navegador preferido.
 
